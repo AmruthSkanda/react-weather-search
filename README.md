@@ -1,6 +1,5 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+### Info
+Sample application to view weather details of various indian cities in React and Redux
 
 ### Getting Started
 
@@ -23,3 +22,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
+credits: https://www.udemy.com/react-redux/
